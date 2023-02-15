@@ -65,4 +65,6 @@ hi
 
 you can run it like: $> ./pipex here_doc LIMITER cmd cmd1 file
 
+In the example above the limiter would be end!
+
 Thakn you for reading. Any doubts slack me: idias-al.
