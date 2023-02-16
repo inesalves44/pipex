@@ -14,7 +14,7 @@ Where input and output represent files and cmd1 and cmd 2 represent shell comman
 
 For the mandatory part you can run it with: 
  ```
-make all.
+make all 
  ```
  
 After having the executable you can run it: 
@@ -29,7 +29,10 @@ This program works with forks and pipes in C.
 
 ## Bonus
 
-For the bonus you can run with: make bonus.
+For the bonus you can run with: 
+ ```
+make bonus
+ ```
 
 The bonus has two parts:
 
@@ -81,6 +84,14 @@ $> ./pipex here_doc LIMITER cmd cmd1 file
  ```
  
 In the example above the limiter would be end!
+
+## Other Make Commands
+ ```
+ make clean - clean the objects
+ make fclean - clean executable and any library, also runs clean
+ make re - runs clean and fclean and then runs all to create the executable
+ make rebonus - runs clean and fclean and then runs all to create the executable for bonus
+ ```
 
 ## Useful Links
 
