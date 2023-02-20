@@ -1,6 +1,8 @@
-# pipex
+# pipex (42 lvl - 2)
 
 ## Overview:
+
+This project is a part of the 42 school common core, level 2.
 
 The objective of this project is to simulate shell pipes in C:
 
@@ -97,4 +99,4 @@ In the example above the limiter would be end!
 
 [Explaining pipes in C](https://www.youtube.com/watch?v=6xbLgZpOBi8)
 
-Thank you for reading. Any doubts slack me: idias-al.
+Thank you for reading. Any doubts slack me: [idias-al](https://profile.intra.42.fr/users/idias-al).
